@@ -6,7 +6,7 @@ description: "매일매일 공부 현황 체크하기"
 author: "Doyooning"
 title: "Daily Scrum Blog"
 permalink: pretty
-baseurl: /doyooning.github.io
+baseurl: /
 
 # social
 github:
