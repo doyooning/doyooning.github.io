@@ -1,11 +1,11 @@
 {
     "items": [{
             "name": "Portfolio",
-            "link": "/_data/portfolio/"
+            "link": "/portfolio/"
         },
         {
             "name": "About",
-            "link": "/_data/about/"
+            "link": "/about/"
         }
     ]
 }
