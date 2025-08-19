@@ -1,0 +1,16 @@
+# Site settings
+name: 이거사조 데일리 스크럼
+email: email
+url: url
+description: "매일매일 공부 현황 체크하기"
+author: "Doyooning"
+title: "Daily Scrum Blog"
+permalink: pretty
+baseurl: /ssg09-this4jo-daily-scrum
+
+# social
+github:
+  username: username
+
+twitter:
+  username: username
